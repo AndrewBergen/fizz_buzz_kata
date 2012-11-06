@@ -1,5 +1,5 @@
 Given /^I have a new fizz buzz game$/ do
-  pending # express the regexp above with the code you wish you had
+  fizz_buzz_game = fizz_buzz.new
 end
 
 When /^the game starts$/ do
